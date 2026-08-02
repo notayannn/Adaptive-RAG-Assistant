@@ -1,0 +1,10 @@
+streamlit
+qdrant-client
+groq
+sentence-transformers
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+pypdf
+docx2txt
+python-dotenv
