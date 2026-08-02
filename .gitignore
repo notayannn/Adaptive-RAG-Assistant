@@ -22,5 +22,6 @@ Thumbs.db
 .vscode/
 .idea/
 
+# git remote add origin https://github.com/notayannn/Adaptive-RAG-Assistant.git
 # Streamlit cache
 .streamlit/cache/
