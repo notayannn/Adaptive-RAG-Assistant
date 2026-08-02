@@ -14,8 +14,6 @@
 
 </div>
 
-> **Note:** Replace the Live Demo link above once deployed, and swap the badge/repo URLs to match your GitHub username.
-
 ---
 
 ## 🎯 Overview
