@@ -10,7 +10,8 @@
 [![Groq](https://img.shields.io/badge/Groq-LPU%20Inference-F55036?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
-[**🚀 Live Demo**](#) · [**🐛 Report a Bug**](../../issues) · [**✨ Request a Feature**](../../issues)
+[**🚀 Live Demo**](https://rago-agento.streamlit.app/)
+) · [**🐛 Report a Bug**](../../issues) · [**✨ Request a Feature**](../../issues)
 
 </div>
 
@@ -22,7 +23,6 @@
 
 <div align="center">
   <img src="docs/preview-light.png" alt="Light mode preview" width="49%">
-  <img src="docs/preview-dark.png" alt="Dark mode preview" width="49%">
 </div>
 
 > Drop screenshots into a `docs/` folder and update the paths above — GitHub will render them inline.
